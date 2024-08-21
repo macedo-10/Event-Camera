@@ -1,0 +1,6 @@
+*.raw
+*.csv
+*.bias
+*.dat
+*.tmp_index
+*.txt
